@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
       <Header title="About" />
-      <p>TODO: About</p>
+      <img src="/images/test.png" alt="Test" />
     </>
   );
 }
