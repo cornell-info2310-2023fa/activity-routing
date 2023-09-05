@@ -1,5 +1,5 @@
-import Header from './Header';
-import DateRefresh from './DateRefresh';
+import Header from '../components/Header';
+import DateRefresh from '../components/DateRefresh';
 
 export default function Home() {
   return (
